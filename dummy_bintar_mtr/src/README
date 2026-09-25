@@ -1,0 +1,1 @@
+Foundry test plugin: builds as a bintar only, with one passing MTR suite; rpm and deb builds fail.
