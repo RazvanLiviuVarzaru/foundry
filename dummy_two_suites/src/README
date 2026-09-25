@@ -1,1 +1,1 @@
-Foundry test plugin: builds as rpm, deb and bintar, with two passing MTR suites of one test each.
+Foundry test plugin: builds as rpm, deb and bintar, with two MTR suites of one test each; dummy_suite_b's test always fails.

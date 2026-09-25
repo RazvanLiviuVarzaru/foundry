@@ -1,5 +1,6 @@
-# Test plugin: makes an rpm, deb or bintar holding two passing MTR suites,
-# dummy_suite_a and dummy_suite_b. Needs nothing from MariaDB.
+# Test plugin: makes an rpm, deb or bintar holding two MTR suites of one test
+# each: dummy_suite_a's passes, dummy_suite_b's always fails, so the run saves
+# its MTR logs. Needs nothing from MariaDB.
 cmake_minimum_required(VERSION 3.12)
 project(dummy_two_suites LANGUAGES NONE)
 
