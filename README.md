@@ -6,7 +6,7 @@ Requires `MariaDB-devel` or `libmariadb-dev` package to be installed.
 Or if `CMAKE_PREFIX_PATH` and `LIBRARY_PATH` are set accordingly in the
 environment, could be run with the binary tarball or the server build tree.
 
-Use as
+Use as in
 
 ```
 mkdir build
