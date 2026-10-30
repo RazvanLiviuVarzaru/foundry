@@ -1,3 +1,4 @@
+return() # Test branch: skipped on every target
 if (CMAKE_VERSION VERSION_LESS 3.18)
   return()
 endif()
